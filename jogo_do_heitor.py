@@ -11,4 +11,4 @@ for q in range(quantidade):
     if resposta == (numero1 * numero2):
         print(f"Você ACERTOU! A respostas é {resposta}!!")
     else:
-        print(f"Você ERROU! A respostas é {resposta}!!")
+        print(f"Você ERROU! A respostas é {(numero1 * numero2)}!!")
